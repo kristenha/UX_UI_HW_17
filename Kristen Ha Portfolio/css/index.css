@@ -265,17 +265,16 @@ transform: rotate(-6.95deg);
 .MHMpic{
   position: absolute;
   display:flex;
-  width: 700px;
+  width: 800px;
   height: 600px;
-  left: 122px;
+  left: 150px;
   top: 100px;
 }
 
 .MHMpic2{
 position: absolute;
-width: 550px;
+width: 650px;
 height: 496px;
-left:10px;
 top: 143px;
 }
 .footer{
